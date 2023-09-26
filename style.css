@@ -98,6 +98,11 @@ p a {
     color: rgba(33, 106, 216);
 }
 
+button a {
+    text-decoration: none;
+    color: white;
+}
+
 button {
     width: 20%;
     float: right;
